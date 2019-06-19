@@ -1,4 +1,6 @@
 # yanghexing
-Private student account
-Mainly for learning records
-if anything，please contact email 13700329340@163.com
+学生学习账户
+任务一为参考google编码规范整理的C++、java的编码规范，以及c++与java的实例代码。
+任务2为图书管理软件系统 软件需求规格书，包含对应的用例图和用例场景。
+任务3为在任务2的需求规格说明书的基础上的图书管理软件系统的软件概要设计和详细设计，包含软件体系结构的设计，系统结构设计图，类图以及类与类之间的关系。
+有问题，请联系邮箱1415094253@qq.com
